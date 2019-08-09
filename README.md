@@ -10,4 +10,4 @@ How to run program:Linux Ubuntu
 
 5)type ./path_planning
 
-after this open simualtor and run.
+after this open simualtor and run.(simulator not included)
